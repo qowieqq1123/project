@@ -15,7 +15,7 @@
 | `op-student-management-system/` | Spring Boot 3 + Vue3 + Element Plus + Sa-Token（现代项目结构） | ✅ 已克隆 |
 | `student-grade-management/` | 学生成绩管理，Spring Boot + Vue3 + Element Plus | ✅ 已克隆 |
 | `hospital-platform/` | 医院管理系统（⚠️ 仓库只有 README 设计说明，源码需联系作者付费获取） | ⚠️ 无源码 |
-| `jake-mall/` | Spring Boot + Vue3 商城系统（后期参考） | ⏳ 网络超时，待克隆 |
+| `jake-mall/` | Spring Boot + Vue3 商城系统（后期参考，含 server + 双前端） | ✅ 已克隆 |
 
 > 学习方法：看 README → 项目结构 → 数据库设计 → Controller → Service → Mapper → Vue 页面，
 > 关闭仓库后自己重新实现，遇到问题再回来查。
