@@ -23,3 +23,11 @@
 ## 我自己的项目
 
 后续「校园智慧医务室管理系统 2.0」将在此仓库新建独立目录开发。
+## 更多形态的参考项目（同架构、不同业务）
+
+| 文件夹 | 说明 | 技术栈 |
+|--------|------|--------|
+| `music-website/` | 音乐网站（播放器/歌单/收藏，2.6k+ star） | Vue2/3 + Spring Boot + MyBatis + MySQL |
+| `NBlog/` | 个人博客（前台浏览 + 后台写作管理） | Spring Boot + Vue + MySQL + Redis |
+| `sky-take-out/` | 苍穹外卖（点餐/订单/工作台，黑马课程项目） | Spring Boot + MyBatis-Plus + MySQL + Redis |
+| `chuan-bill/` | 小川记账（个人/家庭记账 + 预算 + 统计图表） | Java 17 + Spring Boot 3.5 + MyBatis-Plus + Sa-Token + Vue3(uni-app) |
